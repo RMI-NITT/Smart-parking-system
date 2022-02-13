@@ -2,10 +2,10 @@
 Vision based Smart Parking system using ESP32-CAMs, Raspberry Pi and cloud deployed NodeJS web-server. 
 
 ### Designed and Developed by
-- [Kailash Hari](https://github.com/kailashhari)
+- [Aswin Sreekumar](https://github.com/aswin-sreekumar)
 - [Satish Kumar L](https://github.com/Satish-Kumar-L)
 - [Greeshwar R S](https://github.com/greesh02)
-- [Aswin Sreekumar](https://github.com/aswin-sreekumar)
+- [Kailash Hari](https://github.com/kailashhari)
 
 ### Contents
 - [Problem statement](#Problem-statement)
